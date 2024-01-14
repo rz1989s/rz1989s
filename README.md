@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Rheza Sulaiman
 - 👀 I’m interested in Investing
 - 🌱 I’m currently learning Crypto
 - 📫 How to reach me
