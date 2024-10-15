@@ -17,6 +17,8 @@ I'm a thinker who loves exploring new ideas, particularly in technology and the 
 ### RECTOR LABS - https://docs.rectorspace.com/
 - 🤖 **Alert Bot**: Used by analysts with an audience across Discord to stay updated.
 - 📊 **Crypto Analysis Service**: Providing independent crypto industry analysis, covering both macro and micro perspectives.
+- 💰 **recSOL**: I plan to release **recSOL**, a Liquid Staking Token (LST) that will always maintain a 1:1 value with SOL.
+- ⚙️ **Solana Node**: Currently in the process of setting up and running a node on the Solana blockchain.
 
 ## Open Source Contributions
 
