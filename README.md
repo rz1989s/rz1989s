@@ -31,7 +31,7 @@ I love contributing to open-source projects to sharpen my skills and give back t
 
 ## Let's Connect! 🤝
 
-You can find me sharing my daily activities and thoughts on [X (formerly Twitter)](https://twitter.com/your-profile). Feel free to connect!
+You can find me sharing my daily activities and thoughts on [X (formerly Twitter)](https://x.com/RZ1989sol). Feel free to connect!
 
 ## Hobbies 🎾
 
