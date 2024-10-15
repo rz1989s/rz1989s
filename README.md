@@ -11,7 +11,7 @@ I'm a thinker who loves exploring new ideas, particularly in technology and the 
 
 ## Projects
 
-### RZMetaversity.com
+### RZMetaversity.com - https://rzmetaversity.com/
 - 🌏 **Founder of RZMetaversity**, an educational community under **RZ LABS**, focusing on fundamental crypto and tech education, especially for the Indonesian community.
 
 ### RECTOR LABS - https://docs.rectorspace.com/
@@ -37,3 +37,4 @@ In my free time, I enjoy playing **badminton** to stay active and refreshed.
 
 ---
 "Always exploring, always building." 🔍🔨
+Thę Rēct◎r
