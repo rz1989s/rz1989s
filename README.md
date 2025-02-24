@@ -1,4 +1,4 @@
-# Hi there, I'm a Solana Maxi! 🌐🚀
+# Hi there, I'm a Solana Maxi - Thę Rēct◎r! 🌐🚀
 
 I'm a thinker who loves exploring new ideas, particularly in technology and the crypto industry. As a Solana enthusiast, I'm constantly diving deep into blockchain and decentralized systems, learning, and building along the way.
 
