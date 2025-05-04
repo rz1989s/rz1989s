@@ -24,6 +24,10 @@ I'm a thinker who loves exploring new ideas, particularly in technology and the 
 - 💰 **recSOL**: I plan to release **recSOL**, a Liquid Staking Token (LST) that will always maintain a 1:1 value with SOL.
 - ⚙️ **Solana Node**: Currently in the process of setting up and running a node on the Solana blockchain.
 
+## Current Projects
+
+- 🚀 **recMEV**: Currently building a high-performance Solana arbitrage engine. recMEV is designed for speed, intelligence, and reliability, empowering users to capture opportunities others miss.
+
 ## Open Source Contributions
 
 I love contributing to open-source projects to sharpen my skills and give back to the community. Additionally, I work on personal projects based on clients' needs.
@@ -35,7 +39,7 @@ I love contributing to open-source projects to sharpen my skills and give back t
 
 ## Let's Connect! 🤝
 
-You can find me sharing my daily activities and thoughts on [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RZ1989sol). Feel free to connect!
+You can find me sharing my daily activities and thoughts on X [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RZ1989sol). Feel free to connect!
 
 ## Hobbies 🎾
 
@@ -45,10 +49,6 @@ In my free time, I enjoy playing **badminton** to stay active and refreshed.
 
 "Always exploring, always building." 🔍🔨
 Thę Rēct◎r
-
-## 🌐 Socials:
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RZ1989sol)
 
 # 💻 Tech Stack:
 
