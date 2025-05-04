@@ -7,7 +7,7 @@ I'm a thinker who loves exploring new ideas, particularly in technology and the 
 ## About Me
 
 - 💡 **Critical & Logical Thinker**: Skilled at identifying problems and digging into their root causes.
-- 👨‍💻 **Programming Expertise**: Proficient in **Python**, **JavaScript**, and **TypeScript**. Currently learning **Rust** to deepen my knowledge in blockchain development.
+- 👨‍💻 **Programming Expertise**: Proficient in a wide range of technologies including web development, cloud services, and blockchain frameworks. Currently enhancing skills in **Rust** for blockchain development.
 - 🔧 **Tools**: Passionate about **Anchor** for Solana and always experimenting with new frameworks for broader insight.
 - 🧠 **Explorer**: I enjoy expanding my knowledge and skills in cutting-edge technologies.
 
@@ -35,7 +35,7 @@ I love contributing to open-source projects to sharpen my skills and give back t
 
 ## Let's Connect! 🤝
 
-You can find me sharing my daily activities and thoughts on [X (formerly Twitter)](https://x.com/RZ1989sol). Feel free to connect!
+You can find me sharing my daily activities and thoughts on [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RZ1989sol). Feel free to connect!
 
 ## Hobbies 🎾
 
