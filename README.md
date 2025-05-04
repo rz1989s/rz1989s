@@ -36,17 +36,47 @@
 
 ---
 
-## ⚡ About Me
+<h2 align="center">⚡ About Me ⚡</h2>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div>
-    <ul>
-      <li>💡 <b>Critical & Logical Thinker:</b> Skilled at identifying problems and digging into their root causes.</li>
-      <li>👨‍💻 <b>Programming Expertise:</b> Proficient in web development, cloud services, and blockchain frameworks. Currently enhancing skills in <b>Rust</b> for blockchain development.</li>
-      <li>🔧 <b>Tools:</b> Passionate about <b>Anchor</b> for Solana and always experimenting with new frameworks for broader insight.</li>
-      <li>🧠 <b>Explorer:</b> I enjoy expanding my knowledge and skills in cutting-edge technologies.</li>
-    </ul>
-  </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/SOLANA-MAXIMALIST-14F195?style=for-the-badge&logo=solana&logoColor=white" alt="Solana Maximalist"/>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/-THINKER-242424?style=for-the-badge" alt="Thinker"/><br>
+        <img width="64" height="64" src="https://img.icons8.com/fluency/64/brain.png" alt="brain"/>
+        <br>
+        <b>💡 Critical & Logical</b>
+        <p>Skilled at identifying problems and digging into their root causes</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/-DEVELOPER-242424?style=for-the-badge" alt="Developer"/><br>
+        <img width="64" height="64" src="https://img.icons8.com/fluency/64/code.png" alt="code"/>
+        <br>
+        <b>👨‍💻 Programming Expert</b>
+        <p>Proficient in web, cloud, and blockchain frameworks. Advancing <b>Rust</b> skills</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/-BUILDER-242424?style=for-the-badge" alt="Builder"/><br>
+        <img width="64" height="64" src="https://img.icons8.com/fluency/64/maintenance.png" alt="tools"/>
+        <br>
+        <b>🔧 Toolmaker</b>
+        <p>Passionate about <b>Anchor</b> for Solana and experimenting with cutting-edge frameworks</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/-EXPLORER-242424?style=for-the-badge" alt="Explorer"/><br>
+        <img width="64" height="64" src="https://img.icons8.com/fluency/64/telescope.png" alt="explorer"/>
+        <br>
+        <b>🧠 Knowledge Seeker</b>
+        <p>Continuously expanding skills in emerging technologies and innovative solutions</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -65,25 +95,24 @@
   <summary><h3>🔬 RECTOR LABS</h3></summary>
   <div style="padding-left: 20px;">
     <p>🔗 <a href="https://docs.rectorspace.com/">https://docs.rectorspace.com/</a></p>
-    
-    <table>
-      <tr>
-        <td><b>🤖 Alert Bot</b></td>
-        <td>Used by analysts with an audience across Discord to stay updated.</td>
-      </tr>
-      <tr>
-        <td><b>📊 Crypto Analysis</b></td>
-        <td>Providing independent crypto industry analysis, covering both macro and micro perspectives.</td>
-      </tr>
-      <tr>
-        <td><b>💰 recSOL</b></td>
-        <td>A Liquid Staking Token (LST) that will always maintain a 1:1 value with SOL.</td>
-      </tr>
-      <tr>
-        <td><b>⚙️ Solana Node</b></td>
-        <td>Currently in the process of setting up and running a node on the Solana blockchain.</td>
-      </tr>
-    </table>
+<table>
+  <tr>
+    <td><b>🤖 Alert Bot</b></td>
+    <td>Used by analysts with an audience across Discord to stay updated.</td>
+  </tr>
+  <tr>
+    <td><b>📊 Crypto Analysis</b></td>
+    <td>Providing independent crypto industry analysis, covering both macro and micro perspectives.</td>
+  </tr>
+  <tr>
+    <td><b>💰 recSOL</b></td>
+    <td>A Liquid Staking Token (LST) that will always maintain a 1:1 value with SOL.</td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Solana Node</b></td>
+    <td>Currently in the process of setting up and running a node on the Solana blockchain.</td>
+  </tr>
+</table>
   </div>
 </details>
 
