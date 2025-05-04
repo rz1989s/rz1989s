@@ -1,82 +1,185 @@
 ![Rector Banner](rector-banner.png)
 
 <div align="center">
-  <h1>Hi there, I'm a Solana Maxi - Thę Rēct◎r! 🌐🚀</h1>
-  <p><i>"Always exploring, always building."</i> 🔍🔨</p>
+  <img src="https://solana.com/_next/static/media/logotype.e4df684f.svg" alt="Solana" width="350" />
   
-  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RZ1989sol)
-  [![Solana](https://img.shields.io/badge/Solana-black?style=flat&logo=solana&logoColor=14F195)](https://solana.com)
-  [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+  <div style="margin-top: 30px; margin-bottom: 30px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=800&height=70&lines=Hi+there%2C+I'm+Th%C4%99+R%C4%93ct%E2%97%8Er!;Solana+Maxi+%F0%9F%8C%90%F0%9F%9A%80;DeFi+Architect+%26+Blockchain+Developer;Always+exploring%2C+always+building" alt="Typing SVG" />
+  </div>
+  
+  <div>
+    <a href="https://x.com/RZ1989sol">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    <a href="https://solana.com">
+      <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Solana" />
+    </a>
+    <a href="https://www.rust-lang.org/">
+      <img src="https://img.shields.io/badge/Rust-FF4500?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    </a>
+    <a href="https://github.com/rz1989s">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </div>
+  
+  <div style="margin-top: 40px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rz1989s&theme=dark&hide_border=true&stroke=14F195&background=0D1117&ring=14F195&fire=14F195&currStreakLabel=14F195" alt="GitHub Streak" />
+  </div>
 </div>
 
 <br>
 
-<table align="center">
-  <tr>
-    <td>
-      <h3>💭 VISION</h3>
-      <p>Building the future of decentralized finance on Solana</p>
-    </td>
-    <td>
-      <h3>🔗 MISSION</h3>
-      <p>Connecting ideas, technology, and communities</p>
-    </td>
-    <td>
-      <h3>🛠️ PASSION</h3>
-      <p>Exploring blockchain innovations and creating solutions that matter</p>
-    </td>
-  </tr>
-</table>
+<div style="background: linear-gradient(to right, #0D1117, #1A1F29, #0D1117); padding: 25px; border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 20px rgba(20, 241, 149, 0.15);">
+  <table align="center" style="border-collapse: separate; border-spacing: 15px; background: transparent; width: 100%;">
+    <tr>
+      <td style="background: rgba(13, 17, 23, 0.8); border-radius: 8px; padding: 20px; width: 33%; border: 1px solid rgba(20, 241, 149, 0.2);">
+        <div align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Vision" width="80" height="80" />
+          <h3 style="color: #14F195; margin-top: 10px; margin-bottom: 15px; font-size: 22px;">VISION</h3>
+        </div>
+        <p style="color: #E0E0E0; text-align: center; font-size: 16px; line-height: 1.6;">
+          Building the future of decentralized finance on Solana, where capital efficiency, speed, and accessibility converge to create a truly inclusive financial ecosystem.
+        </p>
+      </td>
+      <td style="background: rgba(13, 17, 23, 0.8); border-radius: 8px; padding: 20px; width: 33%; border: 1px solid rgba(20, 241, 149, 0.2);">
+        <div align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Mission" width="80" height="80" />
+          <h3 style="color: #14F195; margin-top: 10px; margin-bottom: 15px; font-size: 22px;">MISSION</h3>
+        </div>
+        <p style="color: #E0E0E0; text-align: center; font-size: 16px; line-height: 1.6;">
+          Connecting innovative ideas, cutting-edge technology, and diverse communities to build bridges between traditional systems and the decentralized future.
+        </p>
+      </td>
+      <td style="background: rgba(13, 17, 23, 0.8); border-radius: 8px; padding: 20px; width: 33%; border: 1px solid rgba(20, 241, 149, 0.2);">
+        <div align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Passion" width="80" height="80" />
+          <h3 style="color: #14F195; margin-top: 10px; margin-bottom: 15px; font-size: 22px;">PASSION</h3>
+        </div>
+        <p style="color: #E0E0E0; text-align: center; font-size: 16px; line-height: 1.6;">
+          Exploring blockchain innovations and creating solutions that matter, with a focus on high-performance systems that capture value and create opportunity for all participants.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<br>
-
-<div align="center">
-  <p>I'm a thinker who loves exploring new ideas, particularly in technology and the crypto industry. As a Solana enthusiast, I'm constantly diving deep into blockchain and decentralized systems, learning, and building along the way.</p>
+<div style="background: linear-gradient(135deg, #0D1117 0%, #131922 100%); padding: 25px; border-radius: 10px; margin: 20px 0; position: relative; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.4);">
+  <div style="position: absolute; top: -30px; right: -30px; width: 150px; height: 150px; background: radial-gradient(circle, rgba(20,241,149,0.1) 0%, rgba(0,0,0,0) 70%);"></div>
+  <div style="position: absolute; bottom: -20px; left: -20px; width: 120px; height: 120px; background: radial-gradient(circle, rgba(20,241,149,0.05) 0%, rgba(0,0,0,0) 70%);"></div>
+  
+  <p style="color: #E0E0E0; font-size: 18px; line-height: 1.8; text-align: center; max-width: 900px; margin: 0 auto; position: relative; z-index: 2;">
+    I'm a <span style="color: #14F195; font-weight: bold;">visionary thinker</span> with a passion for exploring new ideas at the frontier of blockchain technology. As a <span style="color: #14F195; font-weight: bold;">Solana maximalist</span>, I'm dedicated to building high-performance decentralized systems that push the boundaries of what's possible. My journey combines deep technical expertise with strategic insight, constantly diving deeper into blockchain architectures and DeFi protocols to create innovative solutions that drive the ecosystem forward.
+  </p>
 </div>
 
 ---
 
-<h2 align="center">⚡ About Me ⚡</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+  <span>About Me</span> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SOLANA-MAXIMALIST-14F195?style=for-the-badge&logo=solana&logoColor=white" alt="Solana Maximalist"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=435&lines=Solana+Maximalist;Blockchain+Innovator;DeFi+Architect;Rust+Developer" alt="Solana Maximalist"/>
 </div>
 
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/-THINKER-242424?style=for-the-badge" alt="Thinker"/><br>
-        <img width="64" height="64" src="https://img.icons8.com/fluency/64/brain.png" alt="brain"/>
-        <br>
-        <b>💡 Critical & Logical</b>
-        <p>Skilled at identifying problems and digging into their root causes</p>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/-DEVELOPER-242424?style=for-the-badge" alt="Developer"/><br>
-        <img width="64" height="64" src="https://img.icons8.com/fluency/64/code.png" alt="code"/>
-        <br>
-        <b>👨‍💻 Programming Expert</b>
-        <p>Proficient in web, cloud, and blockchain frameworks. Advancing <b>Rust</b> skills</p>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/-BUILDER-242424?style=for-the-badge" alt="Builder"/><br>
-        <img width="64" height="64" src="https://img.icons8.com/fluency/64/maintenance.png" alt="tools"/>
-        <br>
-        <b>🔧 Toolmaker</b>
-        <p>Passionate about <b>Anchor</b> for Solana and experimenting with cutting-edge frameworks</p>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/-EXPLORER-242424?style=for-the-badge" alt="Explorer"/><br>
-        <img width="64" height="64" src="https://img.icons8.com/fluency/64/telescope.png" alt="explorer"/>
-        <br>
-        <b>🧠 Knowledge Seeker</b>
-        <p>Continuously expanding skills in emerging technologies and innovative solutions</p>
-      </td>
-    </tr>
-  </table>
+  <div style="display: inline-block; margin: 20px; width: 48%;">
+    <a href="#" style="text-decoration: none;">
+      <div style="background: linear-gradient(135deg, #1E1E1E 0%, #2D2D2D 100%); border-radius: 16px; padding: 20px; height: 220px; box-shadow: 0 10px 20px rgba(0,0,0,0.4); transition: all 0.3s ease; position: relative; overflow: hidden;">
+        <div style="position: absolute; top: 0; right: 0; width: 100px; height: 100px; background: radial-gradient(circle, rgba(20,241,149,0.2) 0%, rgba(0,0,0,0) 70%);"></div>
+        <div style="display: flex; align-items: center; margin-bottom: 15px;">
+          <div style="background: #14F195; width: 50px; height: 50px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M2 16.1A5 5 0 0 1 5.9 20M2 12.05A9 9 0 0 1 9.95 20M2 8V6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6"></path>
+              <line x1="2" y1="20" x2="2" y2="20"></line>
+            </svg>
+          </div>
+          <h3 style="color: #14F195; margin: 0; font-size: 22px;">Strategic Thinker</h3>
+        </div>
+        <p style="color: #E0E0E0; margin-left: 65px; line-height: 1.6;">
+          Combining analytical problem-solving with deep blockchain insight to identify market inefficiencies and create innovative solutions. Specialized in Solana ecosystem architecture and DeFi protocol development.
+        </p>
+      </div>
+    </a>
+  </div>
+  
+  <div style="display: inline-block; margin: 20px; width: 48%;">
+    <a href="#" style="text-decoration: none;">
+      <div style="background: linear-gradient(135deg, #1E1E1E 0%, #2D2D2D 100%); border-radius: 16px; padding: 20px; height: 220px; box-shadow: 0 10px 20px rgba(0,0,0,0.4); transition: all 0.3s ease; position: relative; overflow: hidden;">
+        <div style="position: absolute; top: 0; right: 0; width: 100px; height: 100px; background: radial-gradient(circle, rgba(20,241,149,0.2) 0%, rgba(0,0,0,0) 70%);"></div>
+        <div style="display: flex; align-items: center; margin-bottom: 15px;">
+          <div style="background: #14F195; width: 50px; height: 50px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="16 18 22 12 16 6"></polyline>
+              <polyline points="8 6 2 12 8 18"></polyline>
+            </svg>
+          </div>
+          <h3 style="color: #14F195; margin: 0; font-size: 22px;">Full-Stack Developer</h3>
+        </div>
+        <p style="color: #E0E0E0; margin-left: 65px; line-height: 1.6;">
+          Mastering Rust for blockchain applications while leveraging modern web technologies. Building high-performance systems that harness Solana's unique architecture for maximum throughput and minimal latency.
+        </p>
+      </div>
+    </a>
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: inline-block; margin: 20px; width: 48%;">
+    <a href="#" style="text-decoration: none;">
+      <div style="background: linear-gradient(135deg, #1E1E1E 0%, #2D2D2D 100%); border-radius: 16px; padding: 20px; height: 220px; box-shadow: 0 10px 20px rgba(0,0,0,0.4); transition: all 0.3s ease; position: relative; overflow: hidden;">
+        <div style="position: absolute; top: 0; right: 0; width: 100px; height: 100px; background: radial-gradient(circle, rgba(20,241,149,0.2) 0%, rgba(0,0,0,0) 70%);"></div>
+        <div style="display: flex; align-items: center; margin-bottom: 15px;">
+          <div style="background: #14F195; width: 50px; height: 50px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>
+            </svg>
+          </div>
+          <h3 style="color: #14F195; margin: 0; font-size: 22px;">Blockchain Architect</h3>
+        </div>
+        <p style="color: #E0E0E0; margin-left: 65px; line-height: 1.6;">
+          Designing secure, scalable DeFi protocols using Anchor framework. Specializing in MEV strategies, liquidation engines, and cross-chain interoperability solutions to maximize capital efficiency in the Solana ecosystem.
+        </p>
+      </div>
+    </a>
+  </div>
+  
+  <div style="display: inline-block; margin: 20px; width: 48%;">
+    <a href="#" style="text-decoration: none;">
+      <div style="background: linear-gradient(135deg, #1E1E1E 0%, #2D2D2D 100%); border-radius: 16px; padding: 20px; height: 220px; box-shadow: 0 10px 20px rgba(0,0,0,0.4); transition: all 0.3s ease; position: relative; overflow: hidden;">
+        <div style="position: absolute; top: 0; right: 0; width: 100px; height: 100px; background: radial-gradient(circle, rgba(20,241,149,0.2) 0%, rgba(0,0,0,0) 70%);"></div>
+        <div style="display: flex; align-items: center; margin-bottom: 15px;">
+          <div style="background: #14F195; width: 50px; height: 50px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"></circle>
+              <line x1="2" y1="12" x2="22" y2="12"></line>
+              <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+            </svg>
+          </div>
+          <h3 style="color: #14F195; margin: 0; font-size: 22px;">Community Builder</h3>
+        </div>
+        <p style="color: #E0E0E0; margin-left: 65px; line-height: 1.6;">
+          Fostering Web3 adoption through education and community engagement. Creating platforms that empower users with knowledge and tools to participate in the decentralized future, with a focus on Indonesian markets.
+        </p>
+      </div>
+    </a>
+  </div>
+</div>
+
+<div align="center">
+  <a href="https://github.com/rz1989s">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rz1989s&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Languages" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rz1989s&theme=nord&no-frame=true&margin-w=10&column=4" />
 </div>
 
 ---
