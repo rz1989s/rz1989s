@@ -1,45 +1,119 @@
 ![Rector Banner](rector-banner.png)
 
-# Hi there, I'm a Solana Maxi - Thę Rēct◎r! 🌐🚀
+<div align="center">
+  <h1>Hi there, I'm a Solana Maxi - Thę Rēct◎r! 🌐🚀</h1>
+  <p><i>"Always exploring, always building."</i> 🔍🔨</p>
+  
+  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RZ1989sol)
+  [![Solana](https://img.shields.io/badge/Solana-black?style=flat&logo=solana&logoColor=14F195)](https://solana.com)
+  [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+</div>
 
-I'm a thinker who loves exploring new ideas, particularly in technology and the crypto industry. As a Solana enthusiast, I'm constantly diving deep into blockchain and decentralized systems, learning, and building along the way.
+<br>
 
-## About Me
+<table align="center">
+  <tr>
+    <td>
+      <h3>💭 VISION</h3>
+      <p>Building the future of decentralized finance on Solana</p>
+    </td>
+    <td>
+      <h3>🔗 MISSION</h3>
+      <p>Connecting ideas, technology, and communities</p>
+    </td>
+    <td>
+      <h3>🛠️ PASSION</h3>
+      <p>Exploring blockchain innovations and creating solutions that matter</p>
+    </td>
+  </tr>
+</table>
 
-- 💡 **Critical & Logical Thinker**: Skilled at identifying problems and digging into their root causes.
-- 👨‍💻 **Programming Expertise**: Proficient in a wide range of technologies including web development, cloud services, and blockchain frameworks. Currently enhancing skills in **Rust** for blockchain development.
-- 🔧 **Tools**: Passionate about **Anchor** for Solana and always experimenting with new frameworks for broader insight.
-- 🧠 **Explorer**: I enjoy expanding my knowledge and skills in cutting-edge technologies.
+<br>
 
-## Projects
-
-### RZMetaversity.com - https://rzmetaversity.com/
-
-- 🌏 **Founder of RZMetaversity**, an educational community under **RZ LABS**, focusing on fundamental crypto and tech education, especially for the Indonesian community.
-
-### RECTOR LABS - https://docs.rectorspace.com/
-
-- 🤖 **Alert Bot**: Used by analysts with an audience across Discord to stay updated.
-- 📊 **Crypto Analysis Service**: Providing independent crypto industry analysis, covering both macro and micro perspectives.
-- 💰 **recSOL**: I plan to release **recSOL**, a Liquid Staking Token (LST) that will always maintain a 1:1 value with SOL.
-- ⚙️ **Solana Node**: Currently in the process of setting up and running a node on the Solana blockchain.
-
-## Current Projects
-
-- 🚀 **recMEV**: Currently building a high-performance Solana arbitrage engine. recMEV is designed for speed, intelligence, and reliability, empowering users to capture opportunities others miss.
-
-## Open Source Contributions
-
-I love contributing to open-source projects to sharpen my skills and give back to the community. Additionally, I work on personal projects based on clients' needs.
-
-## Let's Connect! 🤝
-
-You can find me sharing my daily activities and thoughts on X [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RZ1989sol). Feel free to connect!
+<div align="center">
+  <p>I'm a thinker who loves exploring new ideas, particularly in technology and the crypto industry. As a Solana enthusiast, I'm constantly diving deep into blockchain and decentralized systems, learning, and building along the way.</p>
+</div>
 
 ---
 
-"Always exploring, always building." 🔍🔨
-Thę Rēct◎r
+## ⚡ About Me
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <ul>
+      <li>💡 <b>Critical & Logical Thinker:</b> Skilled at identifying problems and digging into their root causes.</li>
+      <li>👨‍💻 <b>Programming Expertise:</b> Proficient in web development, cloud services, and blockchain frameworks. Currently enhancing skills in <b>Rust</b> for blockchain development.</li>
+      <li>🔧 <b>Tools:</b> Passionate about <b>Anchor</b> for Solana and always experimenting with new frameworks for broader insight.</li>
+      <li>🧠 <b>Explorer:</b> I enjoy expanding my knowledge and skills in cutting-edge technologies.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+## 🚀 Projects
+
+<details open>
+  <summary><h3>🌏 RZMetaversity.com</h3></summary>
+  <div style="padding-left: 20px;">
+    <p><b>Founder of RZMetaversity</b>, an educational community under <b>RZ LABS</b>, focusing on fundamental crypto and tech education, especially for the Indonesian community.</p>
+    <p>🔗 <a href="https://rzmetaversity.com/">https://rzmetaversity.com/</a></p>
+  </div>
+</details>
+
+<details open>
+  <summary><h3>🔬 RECTOR LABS</h3></summary>
+  <div style="padding-left: 20px;">
+    <p>🔗 <a href="https://docs.rectorspace.com/">https://docs.rectorspace.com/</a></p>
+    
+    <table>
+      <tr>
+        <td><b>🤖 Alert Bot</b></td>
+        <td>Used by analysts with an audience across Discord to stay updated.</td>
+      </tr>
+      <tr>
+        <td><b>📊 Crypto Analysis</b></td>
+        <td>Providing independent crypto industry analysis, covering both macro and micro perspectives.</td>
+      </tr>
+      <tr>
+        <td><b>💰 recSOL</b></td>
+        <td>A Liquid Staking Token (LST) that will always maintain a 1:1 value with SOL.</td>
+      </tr>
+      <tr>
+        <td><b>⚙️ Solana Node</b></td>
+        <td>Currently in the process of setting up and running a node on the Solana blockchain.</td>
+      </tr>
+    </table>
+  </div>
+</details>
+
+<br>
+
+<div align="center">
+  <h2>📌 Current Focus</h2>
+  <img src="https://img.shields.io/badge/🚀-recMEV-9945FF?style=for-the-badge" alt="recMEV">
+</div>
+
+<div style="background-color: #14F195; color: #1A202C; padding: 15px; border-radius: 10px;">
+  <h3>🚀 recMEV</h3>
+  <p>Currently building a high-performance Solana arbitrage engine. recMEV is designed for speed, intelligence, and reliability, empowering users to capture opportunities others miss.</p>
+</div>
+
+---
+
+## 💻 Open Source Contributions
+
+I love contributing to open-source projects to sharpen my skills and give back to the community. Additionally, I work on personal projects based on clients' needs.
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://x.com/RZ1989sol">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+  </a>
+</div>
+
+---
 
 # 💻 Tech Stack:
 
