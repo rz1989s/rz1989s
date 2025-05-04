@@ -218,45 +218,9 @@
   <img src="https://img.shields.io/badge/🚀-recMEV-9945FF?style=for-the-badge" alt="recMEV">
 </div>
 
-<div style="margin-top: 50px; margin-bottom: 30px; text-align: center;">
-  <h2>
-    <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="40" style="vertical-align: middle;"> 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=14F195&center=true&vCenter=true&width=500&lines=Current+Projects;Building+the+Future;Innovating+on+Solana" alt="Typing SVG" /></a>
-    <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="40" style="vertical-align: middle;">
-  </h2>
-</div>
-
-<div style="background: linear-gradient(135deg, #0D1117 0%, #131922 100%); padding: 25px; border-radius: 10px; margin: 20px 0; position: relative; overflow: hidden; box-shadow: 0 4px 20px rgba(20, 241, 149, 0.2);">
-  <div style="position: absolute; top: -50px; right: -50px; width: 200px; height: 200px; background: radial-gradient(circle, rgba(20,241,149,0.1) 0%, rgba(0,0,0,0) 70%);"></div>
-  
-  <div align="center" style="margin-bottom: 20px;">
-    <img src="https://img.shields.io/badge/🚀-recMEV-9945FF?style=for-the-badge&labelColor=000000" alt="recMEV" style="filter: drop-shadow(0 0 5px rgba(20, 241, 149, 0.5));"/>
-  </div>
-  
-  <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-    <div style="width: 60px; height: 60px; background: rgba(20, 241, 149, 0.1); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 20px; border: 1px solid rgba(20, 241, 149, 0.3);">
-      <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#14F195" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="2" x2="12" y2="6"></line><line x1="12" y1="18" x2="12" y2="22"></line><line x1="4.93" y1="4.93" x2="7.76" y2="7.76"></line><line x1="16.24" y1="16.24" x2="19.07" y2="19.07"></line><line x1="2" y1="12" x2="6" y2="12"></line><line x1="18" y1="12" x2="22" y2="12"></line><line x1="4.93" y1="19.07" x2="7.76" y2="16.24"></line><line x1="16.24" y1="7.76" x2="19.07" y2="4.93"></line></svg>
-    </div>
-    <div>
-      <h3 style="color: #14F195; margin: 0; font-size: 22px;">Solana Arbitrage Engine</h3>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=AAAAAA&vCenter=true&width=435&lines=High-performance;Lightning-fast+execution;Maximum+efficiency;Intelligent+opportunity+detection" alt="Typing SVG" /></a>
-    </div>
-  </div>
-  
-  <p style="color: #E0E0E0; font-size: 16px; line-height: 1.6; text-align: center; max-width: 800px; margin: 0 auto;">
-    Currently building a high-performance Solana arbitrage engine. recMEV is designed for speed, intelligence, and reliability, empowering users to capture opportunities others miss. Leveraging the full potential of Solana's sub-second finality and massive throughput.
-  </p>
-</div>
-
-<div align="center" style="margin-top: 50px; margin-bottom: 50px;">
-  <div style="background: rgba(13, 17, 23, 0.6); padding: 20px; border-radius: 10px; display: inline-block; border: 1px solid rgba(20, 241, 149, 0.2);">
-    <div style="display: flex; align-items: center; justify-content: center;">
-      <img src="https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif" width="50" style="margin-right: 15px;" />
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=14F195&center=true&vCenter=true&random=false&width=435&lines=%22Always+exploring%2C+always+building.%22" alt="Typing SVG" /></a>
-      <img src="https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif" width="50" style="margin-left: 15px;" />
-    </div>
-    <p style="color: #AAAAAA; font-style: italic; margin-top: 10px; text-align: right;">- Thę Rēct◎r</p>
-  </div>
+<div style="background-color: #14F195; color: #1A202C; padding: 15px; border-radius: 10px;">
+  <h3>🚀 recMEV</h3>
+  <p>Currently building a high-performance Solana arbitrage engine. recMEV is designed for speed, intelligence, and reliability, empowering users to capture opportunities others miss.</p>
 </div>
 
 ---
