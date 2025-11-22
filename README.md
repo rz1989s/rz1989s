@@ -27,51 +27,6 @@
   </div>
 </div>
 
-<br>
-
-<div style="background: linear-gradient(to right, #0D1117, #1A1F29, #0D1117); padding: 25px; border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 20px rgba(20, 241, 149, 0.15);">
-  <table align="center" style="border-collapse: separate; border-spacing: 15px; background: transparent; width: 100%;">
-    <tr>
-      <td style="background: rgba(13, 17, 23, 0.8); border-radius: 8px; padding: 20px; width: 33%; border: 1px solid rgba(20, 241, 149, 0.2);">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Crystal%20ball/3D/crystal_ball_3d.png" alt="Vision" width="80" height="80" />
-          <h3 style="color: #14F195; margin-top: 10px; margin-bottom: 15px; font-size: 22px;">VISION</h3>
-        </div>
-        <p style="color: #E0E0E0; text-align: center; font-size: 16px; line-height: 1.6;">
-          Building the future of decentralized finance on Solana, where capital efficiency, speed, and accessibility converge to create a truly inclusive financial ecosystem.
-        </p>
-      </td>
-      <td style="background: rgba(13, 17, 23, 0.8); border-radius: 8px; padding: 20px; width: 33%; border: 1px solid rgba(20, 241, 149, 0.2);">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Mission" width="80" height="80" />
-          <h3 style="color: #14F195; margin-top: 10px; margin-bottom: 15px; font-size: 22px;">MISSION</h3>
-        </div>
-        <p style="color: #E0E0E0; text-align: center; font-size: 16px; line-height: 1.6;">
-          Connecting innovative ideas, cutting-edge technology, and diverse communities to build bridges between traditional systems and the decentralized future.
-        </p>
-      </td>
-      <td style="background: rgba(13, 17, 23, 0.8); border-radius: 8px; padding: 20px; width: 33%; border: 1px solid rgba(20, 241, 149, 0.2);">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Passion" width="80" height="80" />
-          <h3 style="color: #14F195; margin-top: 10px; margin-bottom: 15px; font-size: 22px;">PASSION</h3>
-        </div>
-        <p style="color: #E0E0E0; text-align: center; font-size: 16px; line-height: 1.6;">
-          Exploring blockchain innovations and creating solutions that matter, with a focus on high-performance systems that capture value and create opportunity for all participants.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="background: linear-gradient(135deg, #0D1117 0%, #131922 100%); padding: 25px; border-radius: 10px; margin: 20px 0; position: relative; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.4);">
-  <div style="position: absolute; top: -30px; right: -30px; width: 150px; height: 150px; background: radial-gradient(circle, rgba(20,241,149,0.1) 0%, rgba(0,0,0,0) 70%);"></div>
-  <div style="position: absolute; bottom: -20px; left: -20px; width: 120px; height: 120px; background: radial-gradient(circle, rgba(20,241,149,0.05) 0%, rgba(0,0,0,0) 70%);"></div>
-  
-  <p style="color: #E0E0E0; font-size: 18px; line-height: 1.8; text-align: center; max-width: 900px; margin: 0 auto; position: relative; z-index: 2;">
-    I'm a <span style="color: #14F195; font-weight: bold;">visionary thinker</span> with a passion for exploring new ideas at the frontier of blockchain technology. As a <span style="color: #14F195; font-weight: bold;">Solana maximalist</span>, I'm dedicated to building high-performance decentralized systems that push the boundaries of what's possible. My journey combines deep technical expertise with strategic insight, constantly diving deeper into blockchain architectures and DeFi protocols to create innovative solutions that drive the ecosystem forward.
-  </p>
-</div>
-
 ---
 
 <h2 align="center">
