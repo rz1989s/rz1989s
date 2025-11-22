@@ -30,13 +30,18 @@
 ---
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-  <span>About Me</span> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  <span>About Me</span>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=435&lines=Solana+Maximalist;Blockchain+Innovator;DeFi+Architect;Rust+Developer" alt="Solana Maximalist"/>
+  <h3>Assalamu'alaikum 👋</h3>
+  <p><strong>Muslim Technologist | Building in Public</strong></p>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Solana+Blockchain+Builder;Islamic+EdTech+Innovator;Building+in+Public" alt="Full-Stack Developer"/>
 </div>
 
 <br>
@@ -53,10 +58,10 @@
               <line x1="2" y1="20" x2="2" y2="20"></line>
             </svg>
           </div>
-          <h3 style="color: #14F195; margin: 0; font-size: 22px;">Strategic Thinker</h3>
+          <h3 style="color: #14F195; margin: 0; font-size: 22px;">Full-Stack Developer</h3>
         </div>
         <p style="color: #E0E0E0; margin-left: 65px; line-height: 1.6;">
-          Combining analytical problem-solving with deep blockchain insight to identify market inefficiencies and create innovative solutions. Specialized in Solana ecosystem architecture and DeFi protocol development.
+          Building with Rails 8, TypeScript, Python, and Rust. Creator of 27+ open-source repositories focused on blockchain, developer tools, and educational technology.
         </p>
       </div>
     </a>
@@ -73,10 +78,10 @@
               <polyline points="8 6 2 12 8 18"></polyline>
             </svg>
           </div>
-          <h3 style="color: #14F195; margin: 0; font-size: 22px;">Full-Stack Developer</h3>
+          <h3 style="color: #14F195; margin: 0; font-size: 22px;">Blockchain Architect</h3>
         </div>
         <p style="color: #E0E0E0; margin-left: 65px; line-height: 1.6;">
-          Mastering Rust for blockchain applications while leveraging modern web technologies. Building high-performance systems that harness Solana's unique architecture for maximum throughput and minimal latency.
+          Solana ecosystem specialist. Built lumos (Solana dev framework), solana-academy (educational game), and whale-alert (transaction monitoring). Focus on decentralized systems and DeFi protocols.
         </p>
       </div>
     </a>
@@ -94,10 +99,10 @@
               <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>
             </svg>
           </div>
-          <h3 style="color: #14F195; margin: 0; font-size: 22px;">Blockchain Architect</h3>
+          <h3 style="color: #14F195; margin: 0; font-size: 22px;">Islamic EdTech Builder</h3>
         </div>
         <p style="color: #E0E0E0; margin-left: 65px; line-height: 1.6;">
-          Designing secure, scalable DeFi protocols using Anchor framework. Specializing in MEV strategies, liquidation engines, and cross-chain interoperability solutions to maximize capital efficiency in the Solana ecosystem.
+          Creating technology that serves humanity and Islamic principles. Developing educational platforms and tools that bridge traditional knowledge with modern blockchain innovation.
         </p>
       </div>
     </a>
@@ -118,11 +123,33 @@
           <h3 style="color: #14F195; margin: 0; font-size: 22px;">Community Builder</h3>
         </div>
         <p style="color: #E0E0E0; margin-left: 65px; line-height: 1.6;">
-          Fostering Web3 adoption through education and community engagement. Creating platforms that empower users with knowledge and tools to participate in the decentralized future, with a focus on Indonesian markets.
+          Building in public. Mentoring developers, preserving knowledge through documentation, and creating practical alternatives to expensive tools. Focus on transparency and knowledge sharing.
         </p>
       </div>
     </a>
   </div>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🌐 Portfolio & Projects</h3>
+  <p>
+    <a href="https://rectorspace.com" target="_blank">
+      <img src="https://img.shields.io/badge/rectorspace.com-Visit_Portfolio-14F195?style=for-the-badge&logo=safari&logoColor=black" alt="Portfolio">
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <h3>🚀 Featured Projects</h3>
+  <p>
+    <strong>lumos</strong> - Solana development framework eliminating type duplication<br>
+    <strong>solana-academy</strong> - Blockchain educational game<br>
+    <strong>markitdown-mcp-server</strong> - Document-to-markdown conversion tool<br>
+    <strong>gpt-web-scraper</strong> - AI-powered data extraction<br>
+    <strong>solana-whale-alert</strong> - Transaction monitoring tool
+  </p>
 </div>
 
 <div align="center">
