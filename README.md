@@ -136,7 +136,7 @@
   <h3>🌐 Portfolio & Projects</h3>
   <p>
     <a href="https://rectorspace.com" target="_blank">
-      <img src="https://img.shields.io/badge/rectorspace.com-Visit_Portfolio-14F195?style=for-the-badge&logo=safari&logoColor=black" alt="Portfolio">
+      <img src="https://img.shields.io/badge/rectorspace.com-14F195?style=for-the-badge&logoColor=black" alt="Portfolio">
     </a>
   </p>
 </div>
