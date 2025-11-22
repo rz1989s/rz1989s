@@ -36,109 +36,13 @@
 </h2>
 
 <div align="center">
-  <h3>Assalamu'alaikum 👋</h3>
-  <p><strong>Muslim Technologist | Building in Public</strong></p>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Solana+Blockchain+Builder;Islamic+EdTech+Innovator;Building+in+Public" alt="Full-Stack Developer"/>
-</div>
-
-<br>
-
-<div align="center">
-  <div style="display: inline-block; margin: 20px; width: 48%;">
-    <a href="#" style="text-decoration: none;">
-      <div style="background: linear-gradient(135deg, #1E1E1E 0%, #2D2D2D 100%); border-radius: 16px; padding: 20px; height: 220px; box-shadow: 0 10px 20px rgba(0,0,0,0.4); transition: all 0.3s ease; position: relative; overflow: hidden;">
-        <div style="position: absolute; top: 0; right: 0; width: 100px; height: 100px; background: radial-gradient(circle, rgba(20,241,149,0.2) 0%, rgba(0,0,0,0) 70%);"></div>
-        <div style="display: flex; align-items: center; margin-bottom: 15px;">
-          <div style="background: #14F195; width: 50px; height: 50px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
-            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M2 16.1A5 5 0 0 1 5.9 20M2 12.05A9 9 0 0 1 9.95 20M2 8V6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6"></path>
-              <line x1="2" y1="20" x2="2" y2="20"></line>
-            </svg>
-          </div>
-          <h3 style="color: #14F195; margin: 0; font-size: 22px;">Full-Stack Developer</h3>
-        </div>
-        <p style="color: #E0E0E0; margin-left: 65px; line-height: 1.6;">
-          Building with Rails 8, TypeScript, Python, and Rust. Creator of 27+ open-source repositories focused on blockchain, developer tools, and educational technology.
-        </p>
-      </div>
-    </a>
-  </div>
-  
-  <div style="display: inline-block; margin: 20px; width: 48%;">
-    <a href="#" style="text-decoration: none;">
-      <div style="background: linear-gradient(135deg, #1E1E1E 0%, #2D2D2D 100%); border-radius: 16px; padding: 20px; height: 220px; box-shadow: 0 10px 20px rgba(0,0,0,0.4); transition: all 0.3s ease; position: relative; overflow: hidden;">
-        <div style="position: absolute; top: 0; right: 0; width: 100px; height: 100px; background: radial-gradient(circle, rgba(20,241,149,0.2) 0%, rgba(0,0,0,0) 70%);"></div>
-        <div style="display: flex; align-items: center; margin-bottom: 15px;">
-          <div style="background: #14F195; width: 50px; height: 50px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
-            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <polyline points="16 18 22 12 16 6"></polyline>
-              <polyline points="8 6 2 12 8 18"></polyline>
-            </svg>
-          </div>
-          <h3 style="color: #14F195; margin: 0; font-size: 22px;">Blockchain Architect</h3>
-        </div>
-        <p style="color: #E0E0E0; margin-left: 65px; line-height: 1.6;">
-          Solana ecosystem specialist. Built lumos (Solana dev framework), solana-academy (educational game), and whale-alert (transaction monitoring). Focus on decentralized systems and DeFi protocols.
-        </p>
-      </div>
-    </a>
-  </div>
-</div>
-
-<div align="center">
-  <div style="display: inline-block; margin: 20px; width: 48%;">
-    <a href="#" style="text-decoration: none;">
-      <div style="background: linear-gradient(135deg, #1E1E1E 0%, #2D2D2D 100%); border-radius: 16px; padding: 20px; height: 220px; box-shadow: 0 10px 20px rgba(0,0,0,0.4); transition: all 0.3s ease; position: relative; overflow: hidden;">
-        <div style="position: absolute; top: 0; right: 0; width: 100px; height: 100px; background: radial-gradient(circle, rgba(20,241,149,0.2) 0%, rgba(0,0,0,0) 70%);"></div>
-        <div style="display: flex; align-items: center; margin-bottom: 15px;">
-          <div style="background: #14F195; width: 50px; height: 50px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
-            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>
-            </svg>
-          </div>
-          <h3 style="color: #14F195; margin: 0; font-size: 22px;">Islamic EdTech Builder</h3>
-        </div>
-        <p style="color: #E0E0E0; margin-left: 65px; line-height: 1.6;">
-          Creating technology that serves humanity and Islamic principles. Developing educational platforms and tools that bridge traditional knowledge with modern blockchain innovation.
-        </p>
-      </div>
-    </a>
-  </div>
-  
-  <div style="display: inline-block; margin: 20px; width: 48%;">
-    <a href="#" style="text-decoration: none;">
-      <div style="background: linear-gradient(135deg, #1E1E1E 0%, #2D2D2D 100%); border-radius: 16px; padding: 20px; height: 220px; box-shadow: 0 10px 20px rgba(0,0,0,0.4); transition: all 0.3s ease; position: relative; overflow: hidden;">
-        <div style="position: absolute; top: 0; right: 0; width: 100px; height: 100px; background: radial-gradient(circle, rgba(20,241,149,0.2) 0%, rgba(0,0,0,0) 70%);"></div>
-        <div style="display: flex; align-items: center; margin-bottom: 15px;">
-          <div style="background: #14F195; width: 50px; height: 50px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
-            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <circle cx="12" cy="12" r="10"></circle>
-              <line x1="2" y1="12" x2="22" y2="12"></line>
-              <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
-            </svg>
-          </div>
-          <h3 style="color: #14F195; margin: 0; font-size: 22px;">Community Builder</h3>
-        </div>
-        <p style="color: #E0E0E0; margin-left: 65px; line-height: 1.6;">
-          Building in public. Mentoring developers, preserving knowledge through documentation, and creating practical alternatives to expensive tools. Focus on transparency and knowledge sharing.
-        </p>
-      </div>
-    </a>
-  </div>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🌐 Portfolio & Projects</h3>
+  <br>
   <p>
     <a href="https://rectorspace.com" target="_blank">
       <img src="https://img.shields.io/badge/rectorspace.com-14F195?style=for-the-badge&logoColor=black" alt="Portfolio">
     </a>
   </p>
+  <br>
 </div>
 
 <div align="center">
