@@ -14,16 +14,8 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-  <span>About Me</span>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-</h2>
-
 <div align="center">
-  <br>
-  <h3><a href="https://rectorspace.com" target="_blank">rectorspace.com</a></h3>
-  <br>
+  <p>To learn more about me and my work, visit <a href="https://rectorspace.com" target="_blank">rectorspace.com</a></p>
 </div>
 
 <div align="center">
