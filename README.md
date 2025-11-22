@@ -18,10 +18,6 @@
   <p>To learn more about me and my work, visit <a href="https://rectorspace.com" target="_blank">rectorspace.com</a></p>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rz1989s&theme=nord&no-frame=true&margin-w=10&column=4" />
-</div>
-
 ---
 
 ## 💻 Open Source Contributions
