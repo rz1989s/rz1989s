@@ -6,22 +6,7 @@
   <div style="margin-top: 30px; margin-bottom: 30px;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=800&height=70&lines=Hi+there%2C+I'm+Th%C4%99+R%C4%93ct%E2%97%8Er!;Solana+Maxi+%F0%9F%8C%90%F0%9F%9A%80;DeFi+Architect+%26+Blockchain+Developer;Always+exploring%2C+always+building" alt="Typing SVG" />
   </div>
-  
-  <div>
-    <a href="https://x.com/RZ1989sol">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-    </a>
-    <a href="https://solana.com">
-      <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Solana" />
-    </a>
-    <a href="https://www.rust-lang.org/">
-      <img src="https://img.shields.io/badge/Rust-FF4500?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-    </a>
-    <a href="https://github.com/rz1989s">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </div>
-  
+
   <div style="margin-top: 40px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rz1989s&theme=dark&hide_border=true&stroke=14F195&background=0D1117&ring=14F195&fire=14F195&currStreakLabel=14F195" alt="GitHub Streak" />
   </div>
@@ -37,11 +22,7 @@
 
 <div align="center">
   <br>
-  <p>
-    <a href="https://rectorspace.com" target="_blank">
-      <img src="https://img.shields.io/badge/rectorspace.com-14F195?style=for-the-badge&logoColor=black" alt="Portfolio">
-    </a>
-  </p>
+  <h3><a href="https://rectorspace.com" target="_blank">rectorspace.com</a></h3>
   <br>
 </div>
 
