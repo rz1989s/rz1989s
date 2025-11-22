@@ -229,14 +229,6 @@
 
 I love contributing to open-source projects to sharpen my skills and give back to the community. Additionally, I work on personal projects based on clients' needs.
 
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://x.com/RZ1989sol">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
-  </a>
-</div>
-
 ---
 
 # 💻 Tech Stack:
