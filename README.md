@@ -142,17 +142,6 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Featured Projects</h3>
-  <p>
-    <strong>lumos</strong> - Solana development framework eliminating type duplication<br>
-    <strong>solana-academy</strong> - Blockchain educational game<br>
-    <strong>markitdown-mcp-server</strong> - Document-to-markdown conversion tool<br>
-    <strong>gpt-web-scraper</strong> - AI-powered data extraction<br>
-    <strong>solana-whale-alert</strong> - Transaction monitoring tool
-  </p>
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rz1989s&theme=nord&no-frame=true&margin-w=10&column=4" />
 </div>
 
