@@ -176,55 +176,6 @@
 
 ---
 
-## 🚀 Projects
-
-<details open>
-  <summary><h3>🌏 RZMetaversity.com</h3></summary>
-  <div style="padding-left: 20px;">
-    <p><b>Founder of RZMetaversity</b>, an educational community under <b>RZ LABS</b>, focusing on fundamental crypto and tech education, especially for the Indonesian community.</p>
-    <p>🔗 <a href="https://rzmetaversity.com/">https://rzmetaversity.com/</a></p>
-  </div>
-</details>
-
-<details open>
-  <summary><h3>🔬 RECTOR LABS</h3></summary>
-  <div style="padding-left: 20px;">
-    <p>🔗 <a href="https://docs.rectorspace.com/">https://docs.rectorspace.com/</a></p>
-<table>
-  <tr>
-    <td><b>🤖 Alert Bot</b></td>
-    <td>Used by analysts with an audience across Discord to stay updated.</td>
-  </tr>
-  <tr>
-    <td><b>📊 Crypto Analysis</b></td>
-    <td>Providing independent crypto industry analysis, covering both macro and micro perspectives.</td>
-  </tr>
-  <tr>
-    <td><b>💰 recSOL</b></td>
-    <td>A Liquid Staking Token (LST) that will always maintain a 1:1 value with SOL.</td>
-  </tr>
-  <tr>
-    <td><b>⚙️ Solana Node</b></td>
-    <td>Currently in the process of setting up and running a node on the Solana blockchain.</td>
-  </tr>
-</table>
-  </div>
-</details>
-
-<br>
-
-<div align="center">
-  <h2>📌 Current Focus</h2>
-  <img src="https://img.shields.io/badge/🚀-recMEV-9945FF?style=for-the-badge" alt="recMEV">
-</div>
-
-<div style="background-color: #14F195; color: #1A202C; padding: 15px; border-radius: 10px;">
-  <h3>🚀 recMEV</h3>
-  <p>Currently building a high-performance Solana arbitrage engine. recMEV is designed for speed, intelligence, and reliability, empowering users to capture opportunities others miss.</p>
-</div>
-
----
-
 ## 💻 Open Source Contributions
 
 I love contributing to open-source projects to sharpen my skills and give back to the community. Additionally, I work on personal projects based on clients' needs.
